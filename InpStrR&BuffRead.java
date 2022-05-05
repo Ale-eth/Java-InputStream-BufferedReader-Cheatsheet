@@ -16,8 +16,8 @@ class testClass{
         String texto = sc.readLine();                                 // Para ingresar un texto o palabra
         
         }
-      catch (Exception e ) {
-        System.out.println(e);    // Imprime el mensaje de error ocurrido en el try
+      catch (Exception e) {
+        System.out.println(e);    // Imprime el mensaje de error que tuvo lugar en el try
       }
   }
 }
